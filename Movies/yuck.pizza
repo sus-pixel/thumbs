@@ -1,0 +1,38 @@
+[
+    {
+        "title":"Miraculous World: New York, United Heroez",
+        "thumbnails":["https://raw.githubusercontent.com/sus-pixel/sus-pixel.github.io/main/img/ny.png","https://raw.githubusercontent.com/sus-pixel/sus-pixel.github.io/main/img/ny2.png"],
+        "mainthumb":"https://raw.githubusercontent.com/sus-pixel/sus-pixel.github.io/main/img/ny.png",
+        "trailers":["https://animatedshows.tk/trailers/ny.mp4","https://animatedshows.tk/trailers/ny2.mp4"]
+    },
+    {
+        "title":"Tangled Before Ever After",
+        "thumbnails":["https://raw.githubusercontent.com/sus-pixel/sus-pixel.github.io/main/img/beforeeverafter.jfif","https://raw.githubusercontent.com/sus-pixel/sus-pixel.github.io/main/img/beforeeverafter2.jfif"],
+        "mainthumb":"https://raw.githubusercontent.com/sus-pixel/sus-pixel.github.io/main/img/beforeeverafter.jfif",
+        "trailers":["https://animatedshows.tk/trailers/tangledb4.mp4","https://animatedshows.tk/trailers/tangledb42.mp4"]
+    },
+    {
+        "title":"Soul (2020)",
+        "thumbnails":["https://raw.githubusercontent.com/sus-pixel/sus-pixel.github.io/main/img/Soul.jpeg","https://raw.githubusercontent.com/sus-pixel/sus-pixel.github.io/main/img/soul.jfif","https://raw.githubusercontent.com/sus-pixel/sus-pixel.github.io/main/img/soul2.jfif"],
+        "mainthumb":"https://raw.githubusercontent.com/sus-pixel/sus-pixel.github.io/main/img/Soul.jpeg",
+        "trailers":["https://animatedshows.tk/trailers/Soul.mp4"]
+    },
+    {
+        "title":"Shortsgiving with Big City Greens",
+        "thumbnails":["https://animatedshows.tk/img/shortsgiving.jpg"],
+        "mainthumb":"https://animatedshows.tk/img/shortsgiving.jpg",
+        "trailers":[""]
+    },
+    {
+        "title":"Big Hero 6",
+        "thumbnails":["https://github.com/sus-pixel/thumbs/blob/main/Movies/bh6.jpg?raw=true","https://github.com/sus-pixel/thumbs/blob/main/Movies/bh61.jpg?raw=true","https://github.com/sus-pixel/thumbs/blob/main/Movies/bh62.jpg?raw=true","https://github.com/sus-pixel/thumbs/blob/main/Movies/bh63.jpg?raw=true","https://github.com/sus-pixel/thumbs/blob/main/Movies/bh64.jpg?raw=true","https://github.com/sus-pixel/thumbs/blob/main/Movies/bh65.jpg?raw=true"],
+        "mainthumb":"https://github.com/sus-pixel/thumbs/blob/main/Movies/bh6.jpg?raw=true",
+        "trailers":["https://animatedshows.tk/trailers/BigHero6.mp4"]
+    },
+    {
+        "title":"How To Train Your Dragon: Homecoming",
+        "thumbnails":["https://github.com/sus-pixel/thumbs/blob/main/Movies/homecoming.png?raw=true","https://github.com/sus-pixel/thumbs/blob/main/Movies/homecoming1.png?raw=true","https://github.com/sus-pixel/thumbs/blob/main/Movies/homecoming2.png?raw=true","https://github.com/sus-pixel/thumbs/blob/main/Movies/homecoming3.png?raw=true"],
+        "mainthumb":"https://github.com/sus-pixel/thumbs/blob/main/Movies/homecoming1.png?raw=true",
+        "trailers":["https://animatedshows.tk/trailers/HTTYDhomecoming.mp4"]
+    }
+]
